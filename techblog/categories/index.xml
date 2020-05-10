@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>http://techblog.on-going.jp/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Sun, 10 May 2020 15:20:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://techblog.on-going.jp/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tech</title>
+      <link>http://techblog.on-going.jp/categories/tech/</link>
+      <pubDate>Sun, 10 May 2020 15:20:04 +0900</pubDate>
+      
+      <guid>http://techblog.on-going.jp/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+.header {
+    text-align: center;
+    color: #000;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: "Time New Roman";
+    padding: 18px 15px;
+}
+
+.page-header {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    width: 100%;
+    color: #000;
+    text-align: center;
+    font-family: "Time New Roman";
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.catch-copy {
+    text-align: center;
+    width: 100%;
+    font-family: "Time New Roman";
+    position: absolute;
+    top: 12%;
+    left: 0;
+}
+
+.catch-copy span {
+    color: #fff;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: "Time New Roman";
+    border-bottom: 1px solid #fff;
+    padding-bottom: 1px;
+}
+
+.btn {
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    width: 200px;
+    margin: 0 auto 60px;
+    border: 3px solid #000;
+    text-decoration: none;
+    padding: 15px 0 12px;
+    font-weight: bold;
+}
+
+.heading02 {
+    text-align: center;
+    font-size: 21px;
+    font-weight: bold;
+    color: #000;
+    font-family: "Time New Roman";
+    margin-bottom: 21px;
+}
+
+.heading02 span {
+    border-bottom: 3px solid #000;
+    padding-bottom: 3px;
+}
+
+.lead {
+    font-size: 12px;
+    line-height: 2.0;
+}
+
+.footer {
+    padding: 15px 10px;
+}
+
+.copy {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
